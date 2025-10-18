@@ -1,0 +1,30 @@
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 170px;
+    background-color: bisque;
+}
+
+.mainCalculator{
+    background-color: bisque;
+    height: auto;
+    max-width: 150px;
+}
+#display{
+    width: 142px;
+    height: 20px;
+    text-align: right;
+}
+
+.buttonCss{
+    height: 30px;
+    width: 50px;
+    text-align: center;
+    background-color: white;
+    
+}
+.buttonCss:hover{
+    background-color: grey;
+}
